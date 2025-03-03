@@ -5,8 +5,7 @@ This is a full-stack application built with React, Express, and MongoDB. The app
 
 ## Table of Contents
 - [Installation](#installation)
-- [Deployed Images](#deployed-images)
-- [Video](#Video)
+- [Video](#video)
 - [License](#license)
 - [Questions](#questions)
 
@@ -34,6 +33,11 @@ This is a full-stack application built with React, Express, and MongoDB. The app
     ```sh
     npm run test
     ```
+
+
+## Video 
+
+https://github.com/user-attachments/assets/2c6f8309-2a1b-489c-9307-63c8381a2a35
 
 
 ## License 
